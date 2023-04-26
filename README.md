@@ -1,6 +1,6 @@
 <h1>👋Hi there!</h1> 
 
-##Heading2About Me
+<h2>:hand:About Me</h2>
 
 ☄️I am Koketso Bogopane, I am currently a Software development student at CodeSpace Academy 
 

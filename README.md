@@ -13,5 +13,5 @@ but this will not limit me from doing my own exploring into other new technologi
 building pcs, building fpvs, digital illustration.
 
 🗺️When I am having fun I am either walking my dog or skething anything. I would like to adopt new hobbies like 
-reading more personal development books and financial literacy. I would also like to explore the world if I was give
+reading more personal development books and financial literacy. I would also like to explore the world if I was given
 the chance to learn how technologies are affecting the world and how the world is dealing with this. 

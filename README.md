@@ -23,3 +23,5 @@ Skills i have adapted to:
 Currently training skills related to:
 [![JavaScript](https://img.shields.io/badge/JavaScript-yellow)](https://en.wikipedia.org/wiki/JavaScript)
 
+![Koketso Bogopane' GitHub stats](https://github-readme-stats.vercel.app/api?username=koketsobogopane&show_icons=true&theme=radical)
+

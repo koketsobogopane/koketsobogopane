@@ -17,7 +17,7 @@ building pcs, building fpvs, digital illustration.
 reading more personal development books and financial literacy. I would also like to explore the world if I was given
 the chance to learn how technologies are affecting the world and how the world is dealing with this.
 
-## Skills i have aquired :
+## Skills I have aquired :
 - [![HTML](https://img.shields.io/badge/HTML-orange)](https://en.wikipedia.org/wiki/HTML)
 - [![CSS](https://img.shields.io/badge/CSS-blue)](https://en.wikipedia.org/wiki/CSS)
 

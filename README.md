@@ -26,6 +26,8 @@ the chance to learn how technologies are affecting the world and how the world i
 
 ![Koketso Bogopane's GitHub stats](https://github-readme-stats.vercel.app/api?username=koketsobogopane&show_icons=true&theme=radical)
 
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=koketsobogopane&show_icons=true&locale=en&layout=compact)
+
 # Contact me at: 
 - <a href = "mailto:koketsobogopanenov24@gmail.com">My Email 📧</a>
 - Dial/ or whatsapp me at 0659543838

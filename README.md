@@ -18,11 +18,19 @@ reading more personal development books and financial literacy. I would also lik
 the chance to learn how technologies are affecting the world and how the world is dealing with this.
 
 ## Skills I have aquired :
-- [![HTML](https://img.shields.io/badge/HTML-orange)](https://en.wikipedia.org/wiki/HTML)
-- [![CSS](https://img.shields.io/badge/CSS-blue)](https://en.wikipedia.org/wiki/CSS)
+- [![HTML]( https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://en.wikipedia.org/wiki/HTML)
+- [![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://en.wikipedia.org/wiki/CSS)
+- [![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)]
+- [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)]
+- [![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)]
+- [![Material UI](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)]
+- [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)]
+- [![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B)]
 
 ## Currently training skills related to:
-[![JavaScript](https://img.shields.io/badge/JavaScript-yellow)](https://en.wikipedia.org/wiki/JavaScript)
+- [![Next.js](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)]
+- [![TailwindCss](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)]
+- [![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)]
 
 ![Koketso Bogopane's GitHub stats](https://github-readme-stats.vercel.app/api?username=koketsobogopane&show_icons=true&theme=radical)
 
